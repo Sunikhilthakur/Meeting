@@ -1,0 +1,17 @@
+Meeting Transcript – Product Strategy Call
+Date: August 16, 2025
+Participants: Alice (PM), Bob (Dev Lead), Carol (Designer), David (Marketing)
+
+Alice: Thanks everyone for joining. Today we’ll finalize the Q4 product roadmap.
+Bob: From the dev side, we can deliver the new dashboard by mid-October. The API refactor might need more time.
+Carol: On design, I’ll need 3 weeks for the dashboard redesign. We should sync earlier with devs to avoid last-minute changes.
+David: Marketing wants the dashboard ready by end of October so we can align with the customer newsletter.
+Alice: Okay, so let’s target October 20 for dev completion and October 25 for release.
+Bob: That’s doable, but only if we drop the analytics export feature from Q4.
+Carol: I agree, better to focus on a polished dashboard first.
+David: Works for me, as long as we communicate clearly to customers.
+Alice: Great, action items: 
+- Bob to share updated dev timeline by Friday. 
+- Carol to deliver design mockups by Sept 1. 
+- David to prepare marketing plan by Sept 15. 
+Next meeting in 2 weeks to check progress.
